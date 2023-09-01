@@ -1,4 +1,4 @@
-# repositorio-IA
+# Repositorio de prueba sobre proyecto de Inteligencia Artificial
 Repositorio de prueba para Diplomado Difusión y Divulgación Científica
 
 ## Introducción
